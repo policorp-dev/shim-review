@@ -12,7 +12,7 @@ Confirm the following are included in your repo, checking each box:
 *******************************************************************************
 ### What is the link to your tag in a repo cloned from rhboot/shim-review?
 *******************************************************************************
-`https://github.com/user/shim-review/tree/myorg-shim-arch-YYYYMMDD`
+https://github.com/policorp-dev/shim-review/tree/policorptecnologia-shim-x64-2024032
 
 *******************************************************************************
 ### What is the SHA256 hash of your final SHIM binary?
