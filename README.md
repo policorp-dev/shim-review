@@ -228,7 +228,7 @@ The keys used in our SHIM for Secure Boot are managed and safeguarded through a 
 *******************************************************************************
 ### Do you use EV certificates as embedded certificates in the SHIM?
 *******************************************************************************
-Yes
+No
 
 *******************************************************************************
 ### Do you add a vendor-specific SBAT entry to the SBAT section in each binary that supports SBAT metadata ( GRUB2, fwupd, fwupdate, systemd-boot, systemd-stub, UKI(s), shim + all child shim binaries )?
