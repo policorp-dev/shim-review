@@ -218,7 +218,7 @@ This is the first we are attempt to assign
 *******************************************************************************
 ### What is the SHA256 hash of your final SHIM binary?
 *******************************************************************************
-4aa025926083ae419fa8faa002a257c47603c674509616d6275d7e3922cafbc7  shimx64.efi
+677f300cc3c019d0909af41229309d0016f62e962df534781a83560ca5e352ae  shimx64.efi
 
 *******************************************************************************
 ### How do you manage and protect the keys used in your SHIM?
