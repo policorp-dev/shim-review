@@ -248,6 +248,8 @@ shim.policorp,1,Policorp Tecnologia,shim,15.8,contato@policorp.com.br
 
 ### Grub
 ```
+sbat,1,SBAT Version,sbat,1,https://github.com/rhboot/shim/blob/main/SBAT.md
+grub,3,Free Software Foundation,grub,2.06,https://www.gnu.org/software/grub/
 grub.debian,4,Debian,grub2,2.06-13,https://tracker.debian.org/pkg/grub2
 grub.policorp,1,Policorp Tecnologia,grub2,2.06-13,contato@policorp.com.br
 ```
