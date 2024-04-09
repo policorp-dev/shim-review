@@ -16,6 +16,7 @@ RUN git clone --recursive -b 15.8 https://github.com/rhboot/shim.git shim-polico
 WORKDIR /shim-policorp
 
 COPY policorp.der /shim-policorp/
+COPY sbat.policorp.csv /shim-policorp/data/
 COPY shimx64.efi /
 
 # Build the shim package
