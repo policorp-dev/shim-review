@@ -223,12 +223,12 @@ This is the first we are attempt to assign
 *******************************************************************************
 ### How do you manage and protect the keys used in your SHIM?
 *******************************************************************************
-The keys used in our SHIM for Secure Boot are managed and safeguarded through a rigorous process that involves strict access controls, encryption, and regular audits. Access to these keys is limited to authorized personnel only, with multi-factor authentication and role-based permissions in place to prevent unauthorized access. 
+We have a USB Token exclusively designated for this purpose. Furthermore, we operate on a machine dedicated exclusively to this functionality.
 
 *******************************************************************************
 ### Do you use EV certificates as embedded certificates in the SHIM?
 *******************************************************************************
-No
+Yes
 
 *******************************************************************************
 ### Do you add a vendor-specific SBAT entry to the SBAT section in each binary that supports SBAT metadata ( GRUB2, fwupd, fwupdate, systemd-boot, systemd-stub, UKI(s), shim + all child shim binaries )?
@@ -248,8 +248,8 @@ shim.policorp,1,Policorp Tecnologia,shim,15.8,contato@policorp.com.br
 
 ### Grub
 ```
-sbat,1,SBAT Version,sbat,1,https://github.com/rhboot/shim/blob/main/SBAT.md
-grub,3,Free Software Foundation,grub,2.06,https://www.gnu.org/software/grub/
+bat,1,SBAT Version,sbat,1,https://github.com/rhboot/shim/blob/main/SBAT.md
+grub,4,Free Software Foundation,grub,2.06,https://www.gnu.org/software/grub/
 grub.debian,4,Debian,grub2,2.06-13,https://tracker.debian.org/pkg/grub2
 grub.policorp,1,Policorp Tecnologia,grub2,2.06-13,contato@policorp.com.br
 ```
