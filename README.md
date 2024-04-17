@@ -43,10 +43,10 @@ The security contacts need to be verified before the shim can be accepted. For s
 An authorized reviewer will initiate contact verification by sending each security contact a PGP-encrypted email containing random words.
 You will be asked to post the contents of these mails in your `shim-review` issue to prove ownership of the email addresses and PGP keys.
 *******************************************************************************
-- Name: Policorp
-- Position: Development team contact
-- Email address: contato@policorp.com.br
-- PGP key fingerprint: 92DD 4302 A048 FA72 B7D8 41DE DF3F A24F 160C EE6C 
+- Name: Lucas Adriano Salles
+- Position: Software Developer
+- Email address: lucas.salles@policorp.com.br
+- PGP key fingerprint: 4C10 E1B8 894E F8FA 3449 61BA F143 2C6E C7D9 7BE6
 (Key should be signed by the other security contacts, pushed to a keyserver
 like keyserver.ubuntu.com, and preferably have signatures that are reasonably
 well known in the Linux community.)
