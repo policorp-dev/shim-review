@@ -256,7 +256,7 @@ grub.debian,4,Debian,grub2,2.06-13,https://tracker.debian.org/pkg/grub2
 ### If shim is loading GRUB2 bootloader, which modules are built into your signed GRUB2 image?
 *******************************************************************************
 ```
-part_gpt fat ext2 configfile gcry_sha512 gcry_rsa password_pbkdf2 echo normal linux linuxefi all_video search search_fs_uuid reboot sleep efi_gop efi_uga video_bochs video_cirrus gfxterm loadenv gettext gfxmenu png gzio xzio lzopio ext2 test minicmd
+Debian 12 default, no additional modules
 ```
 *******************************************************************************
 ### If you are using systemd-boot on arm64 or riscv, is the fix for [unverified Devicetree Blob loading](https://github.com/systemd/systemd/security/advisories/GHSA-6m6p-rjcq-334c) included?
