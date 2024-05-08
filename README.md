@@ -46,10 +46,13 @@ You will be asked to post the contents of these mails in your `shim-review` issu
 - Name: Lucas Adriano Salles
 - Position: Software Developer
 - Email address: lucas.salles@policorp.com.br
-- PGP key fingerprint: 4C10 E1B8 894E F8FA 3449 61BA F143 2C6E C7D9 7BE6
-(Key should be signed by the other security contacts, pushed to a keyserver
-like keyserver.ubuntu.com, and preferably have signatures that are reasonably
-well known in the Linux community.)
+- PGP key fingerprint: file in repo LucasSalles.pub
+
+  Keyserver:
+   http://keyserver.ubuntu.com/pks/lookup?search=4C10E1B8894EF8FA344961BAF1432C6EC7D97BE6&fingerprint=on&hash=on&op=index
+  
+  Fingerprint: 4C10 E1B8 894E F8FA 3449 61BA F143 2C6E C7D9 7BE6
+
 
 *******************************************************************************
 ### Who is the secondary contact for security updates, etc.?
@@ -57,11 +60,14 @@ well known in the Linux community.)
 - Name: Luiz Henrique da Silva de Oliveira
 - Position: Software Developer
 - Email address: luiz.oliveira@policorp.com.br
-- PGP key fingerprint: B58E 1D6F 29A2 1F1A 8290 2C09 BB64 9901 A7F4 20C6
+- PGP key fingerprint: file in repo LuizHenrique.pub
 
-(Key should be signed by the other security contacts, pushed to a keyserver
-like keyserver.ubuntu.com, and preferably have signatures that are reasonably
-well known in the Linux community.)
+  Keyserver:
+  http://keyserver.ubuntu.com/pks/lookup?search=B58E1D6F29A21F1A82902C09BB649901A7F420C6&fingerprint=on&hash=on&op=index
+  
+ Fingerprint: B58E 1D6F 29A2 1F1A 8290 2C09 BB64 9901 A7F4 20C6
+
+
 
 *******************************************************************************
 ### Were these binaries created from the 15.8 shim release tar?
