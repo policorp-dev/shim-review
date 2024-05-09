@@ -63,7 +63,7 @@ You will be asked to post the contents of these mails in your `shim-review` issu
 - PGP key fingerprint: file in repo LuizHenriqueSilva.pub
 
   Keyserver:
-  http://keyserver.ubuntu.com/pks/lookup?search=B58E1D6F29A21F1A82902C09BB649901A7F420C6&fingerprint=on&hash=on&op=index
+	https://keyserver.ubuntu.com/pks/lookup?search=70301DE5F8F18D6D344F2D5067B94ED789057535&fingerprint=on&op=index
   
  Fingerprint: 7030 1DE5 F8F1 8D6D 344F 2D50 67B9 4ED7 8905 7535
 
