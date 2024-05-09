@@ -49,9 +49,9 @@ You will be asked to post the contents of these mails in your `shim-review` issu
 - PGP key fingerprint: file in repo LucasSalles.pub
 
   Keyserver:
-   http://keyserver.ubuntu.com/pks/lookup?search=4C10E1B8894EF8FA344961BAF1432C6EC7D97BE6&fingerprint=on&hash=on&op=index
+   http://keyserver.ubuntu.com/pks/lookup?search=782EF2F758A1EFC05CA67C4BC4DACFD7A62C7F71&fingerprint=on&op=index
   
-  Fingerprint: 4C10 E1B8 894E F8FA 3449 61BA F143 2C6E C7D9 7BE6
+  Fingerprint: 782E F2F7 58A1 EFC0 5CA6  7C4B C4DA CFD7 A62C 7F71
 
 
 *******************************************************************************
