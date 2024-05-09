@@ -60,12 +60,12 @@ You will be asked to post the contents of these mails in your `shim-review` issu
 - Name: Luiz Henrique da Silva de Oliveira
 - Position: Software Developer
 - Email address: luiz.oliveira@policorp.com.br
-- PGP key fingerprint: file in repo LuizHenrique.pub
+- PGP key fingerprint: file in repo LuizHenriqueSilva.pub
 
   Keyserver:
   http://keyserver.ubuntu.com/pks/lookup?search=B58E1D6F29A21F1A82902C09BB649901A7F420C6&fingerprint=on&hash=on&op=index
   
- Fingerprint: B58E 1D6F 29A2 1F1A 8290 2C09 BB64 9901 A7F4 20C6
+ Fingerprint: 7030 1DE5 F8F1 8D6D 344F 2D50 67B9 4ED7 8905 7535
 
 
 
